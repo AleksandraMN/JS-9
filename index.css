@@ -1,0 +1,9 @@
+body {
+   background-color: rgb(105, 211, 217);
+}
+input {
+   outline: none;
+}
+.error {
+   border: 1px dashed red;
+}
